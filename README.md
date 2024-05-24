@@ -9,9 +9,6 @@ Run the script and enter a password to check its strength and get suggestions fo
 ```bash
 python password_strength_checker.py
 
-
-git clone https://github.com/Stevenmarathias/password-strength-checker.git
-
 cd password-strength-checker
 
 import re
